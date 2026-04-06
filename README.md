@@ -49,5 +49,5 @@ The project follows layered architecture:
 * PUT /api/student
 * DELETE /api/student/{id}
 
-Author
+Author: 
 Nidhi Pokale
